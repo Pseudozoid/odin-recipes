@@ -1,0 +1,19 @@
+#main-title {
+    background-color: coral;
+    font-family: Garamond;
+    font-size: 46px;
+    text-align: center;
+}
+
+#boyardee {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+
+.recipe-link {
+    text-align: center;
+    font-family: "Courier New";
+    font-size: 22px;
+}
