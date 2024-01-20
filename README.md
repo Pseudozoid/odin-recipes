@@ -1,2 +1,2 @@
 ## Recipes Website
-A very basic website created entirely using html.
+A very basic website created entirely using html and css.
