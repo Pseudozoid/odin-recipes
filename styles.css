@@ -1,7 +1,7 @@
 #main-title {
-    background-color: coral;
-    font-family: Garamond;
-    font-size: 46px;
+    background-color: palegoldenrod;
+    font-family: "Brush Script MT";
+    font-size: 50px;
     text-align: center;
 }
 
@@ -16,4 +16,14 @@
     text-align: center;
     font-family: "Courier New";
     font-size: 22px;
+}
+
+.content {
+    font-family: "Courier New";
+}
+
+.recipe-title {
+    background-color: moccasin;
+    font-family: "Brush Script MT";
+    font-size: 48px;
 }
